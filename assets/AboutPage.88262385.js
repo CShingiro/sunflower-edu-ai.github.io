@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.c4a61ecc.js";import{_ as r,J as t,K as o}from"./index.570c6a00.js";import"./render.61a051ae.js";const a={};function c(s,n){return t(),o(e,{class:"row items-center justify-evenly"})}var m=r(a,[["render",c]]);export{m as default};
